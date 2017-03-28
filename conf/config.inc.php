@@ -186,6 +186,7 @@ $mail_smtp_pass = '';
 $mail_smtp_port = 25;
 $mail_smtp_timeout = 30;
 $mail_smtp_keepalive = false;
+$mail_smtp_disable_tls = false;
 $mail_smtp_secure = 'tls';
 $mail_contenttype = 'text/plain';
 $mail_wordwrap = 0;
